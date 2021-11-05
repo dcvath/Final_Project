@@ -48,9 +48,12 @@ For our dashboard, we’ll utilize Tableau to build a fully functioning, interac
 
 # Mock Up of Database/ERD
 
+![Provisional_DB](https://user-images.githubusercontent.com/85654649/140584483-6d9e690a-5ec0-42c1-a615-2959a8b9c30f.png)
 
 
-#Sample of Dataset 
+# Sample of Dataset 
+
+![data screen shot](https://user-images.githubusercontent.com/85654649/140584492-8c6f10c7-9bbb-41fa-b70a-c11a70647e65.png)
 
 
 # Project Flow Chart
