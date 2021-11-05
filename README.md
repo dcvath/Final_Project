@@ -56,10 +56,14 @@ For our dashboard, we’ll utilize Tableau to build a fully functioning, interac
 # Project Flow Chart
 Our project flow chart includes the mock up of our Machine Learning Model.
 
+![flowchart11-5-21](https://user-images.githubusercontent.com/85654649/140584371-bb98268b-24d8-4aed-962c-efea8a1152ae.png)
+
 # Outline of Final Dashboard
 We plan to build our dashboard within Tableau and anticipate it will include the following elements:
-Bar chart to display the top quality score wines.
-Column chart to compare wine quality scores.
-Pie chart to display the percentages of the categories, such as alcohol content, residual sugar, etc. of the wines with the highest quality scores and how they are distributed.
-The average quality score for our wine.
+
+- Bar chart to display the top quality score wines.
+- Column chart to compare wine quality scores.
+- Pie chart to display the percentages of the categories, such as alcohol content, residual sugar, etc. of the wines with the highest quality scores and how they are distributed.
+- The average quality score for our wine.
+
 This is our initial outline of our dashboard and will progressively elaborate as we analyze our data and outcomes of our analysis. 
