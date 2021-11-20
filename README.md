@@ -53,3 +53,6 @@ We plan to build our dashboard within Tableau and anticipate it will include the
 - The average quality score for our wine.
 
 This is our initial outline of our dashboard and will progressively elaborate as we analyze our data and outcomes of our analysis. 
+
+# Communication Protocols
+We established that our group will communicate via class times, Slack, text, and ad hoc video calls.
