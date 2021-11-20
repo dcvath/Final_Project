@@ -14,9 +14,9 @@
 We established that our group will communicate via class times, Slack, text, and ad hoc phone and video calls.
 
 ### Overview of Project
-Our project is titled, "Predicting Wine Quality." was selected to determine if a vineyard that is interested in a new business venture in the wine industry would be successful, based upon characteristics their wine possesses.
+Our project is titled, "Predicting Wine Quality." JDD Vineyards, a new business venture, has hired Myrick, Purvis, and Vath Consulting to determine if their vineyard would produce quality wines, based upon characteristics their wines possess.
 
-## Source of Data:
+### Data Source
 The data was sourced from Kaggle, and the specific links/files can be obtained below:
 
 Raj Parmar. July 2018. Wine Quality, Version 1. [Data file]. Retrieved November 3, 2021 from https://www.kaggle.com/rajyellow46/wine-quality.
@@ -25,6 +25,7 @@ UCI Machine Learning. November 2017. Red Wine Quality, Version 2. [Data file]. R
 November 3, 2021 from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009.
 
 ### Google Slides Presentation
+This is the link to the current verision of our Google Slides presentation:
 https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
 
 ## Questions the data will potentially answer using Machine Learning:
