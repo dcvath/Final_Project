@@ -1,5 +1,8 @@
 # Final Project: Predicting Wine Quality
 
+![wine_image2](https://user-images.githubusercontent.com/85654649/142743285-67f1e617-0ee4-4fcc-b48d-bbdb156a2a68.jpeg)
+
+
 ## Outline of Project
 
 ### Communication Protocols for Project
