@@ -1,0 +1,51 @@
+CREATE TABLE wine_main (
+     color VARCHAR NOT NULL,
+     fixed_acidity DEC,
+     volatile_acidity DEC,
+     citric_acid DEC,
+     residual_sugar DEC,
+     chlorides DEC,
+     free_sulfur_dioxide DEC,
+     total_sulfur_dioxide DEC,
+     density DEC,
+     pH DEC,
+     sulphates DEC,
+     alcohol DEC,
+     quality DEC
+);
+
+CREATE TABLE wine_red (
+     wine_id VARCHAR NOT NULL,
+     color VARCHAR NOT NULL,
+     fixed_acidity DEC,
+     volatile_acidity DEC,
+     citric_acid DEC,
+     residual_sugar DEC,
+     chlorides DEC,
+     free_sulfur_dioxide DEC,
+     total_sulfur_dioxide DEC,
+     density DEC,
+     pH DEC,
+     sulphates DEC,
+     alcohol DEC
+);
+
+CREATE TABLE wine_white (
+     wine_id VARCHAR NOT NULL,
+     color VARCHAR NOT NULL,
+     fixed_acidity DEC,
+     volatile_acidity DEC,
+     citric_acid DEC,
+     residual_sugar DEC,
+     chlorides DEC,
+     free_sulfur_dioxide DEC,
+     total_sulfur_dioxide DEC,
+     density DEC,
+     pH DEC,
+     sulphates DEC,
+     alcohol DEC
+);
+
+SELECT * FROM wine_main;
+SELECT * FROM wine_red;
+SELECT * FROM wine_white;
