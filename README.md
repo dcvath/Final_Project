@@ -14,7 +14,7 @@
 We established that our group will communicate via class times, Slack, text, and ad hoc phone and video calls.
 
 ### Overview of Project
-Our project is titled, "Predicting Wine Quality." JDD Vineyards, a new business venture, has hired Myrick, Purvis, and Vath Consulting to determine if their vineyard would produce quality wines, based upon characteristics their wines possess.
+JDD Vineyards, a new business venture, has hired Myrick, Purvis, & Vath Consulting for their "Predicting Wine Quality" project. JDD Vineyards wants the consulting team to determine if their vineyard would produce quality wines, based upon characteristics their wines possess. The consulting team will analyze a dataset with quality scores and use Machine Learning to predict the quality scores JDD Vineyards would receive.
 
 ### Data Source
 The data was sourced from Kaggle, and the specific links/files can be obtained below:
