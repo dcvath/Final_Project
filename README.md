@@ -1,5 +1,4 @@
 # Final Project: Predicting Wine Quality
-Predicting Wine Quality was selected to determine if a vineyard that is interested in a new business venture in the wine industry would be successful, based upon characteristics their wine possesses.
 
 ## Outline of Project
 
@@ -14,6 +13,9 @@ Raj Parmar. July 2018. Wine Quality, Version 1. [Data file]. Retrieved November 
 Piyush Agnihotri. September 2020. White Wine Quality, Version 1. [Data file]. Retrieved November 3, 2021 from https://www.kaggle.com/piyushagni5/white-wine-quality.
 UCI Machine Learning. November 2017. Red Wine Quality, Version 2. [Data file]. Retrieved
 November 3, 2021 from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009.
+
+### Google Slides Presentation
+https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
 
 ## Questions the data will potentially answer using Machine Learning:
 - Will the wine produced at the vineyard have high quality scores and be successful?
