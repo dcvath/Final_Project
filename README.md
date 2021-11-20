@@ -19,8 +19,10 @@ JDD Vineyards, a new business venture, has hired Myrick, Purvis, & Vath Consulti
 #### Question the data will potentially answer using Machine Learning Technology
 Will the wines produced at JDD Vineyards have high quality scores and be successful?
 
-### Data Source
-The data was sourced from Kaggle, and the specific links/files can be obtained below:
+#### Data Source
+The data was sourced from Kaggle. The team has included a screen shot of the sample dataset as well as the specific links/files where the data can be obtained.
+
+![data sample screen shot](https://user-images.githubusercontent.com/85654649/142744105-690acf22-5e34-47c4-b336-f64fab2015eb.png)
 
 Raj Parmar. July 2018. Wine Quality, Version 1. [Data file]. Retrieved November 3, 2021 from https://www.kaggle.com/rajyellow46/wine-quality.
 Piyush Agnihotri. September 2020. White Wine Quality, Version 1. [Data file]. Retrieved November 3, 2021 from https://www.kaggle.com/piyushagni5/white-wine-quality.
