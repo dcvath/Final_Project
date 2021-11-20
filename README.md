@@ -19,7 +19,7 @@ JDD Vineyards, a new business venture, has hired Myrick, Purvis, & Vath Consulti
 #### Question the data will potentially answer using Machine Learning Technology
 Will the wines produced at JDD Vineyards have high quality scores and be successful?
 
-#### Data Source
+### Data Source
 The data was sourced from Kaggle. The team has included a screen shot of the sample dataset as well as the specific links/files where the data can be obtained.
 
 ![data sample screen shot](https://user-images.githubusercontent.com/85654649/142744105-690acf22-5e34-47c4-b336-f64fab2015eb.png)
