@@ -12,6 +12,8 @@ We established that our group will communicate via class times, Slack, text, and
 Our project is titled, "Predicting Wine Quality." was selected to determine if a vineyard that is interested in a new business venture in the wine industry would be successful, based upon characteristics their wine possesses.
 
 ## Source of Data:
+The data was sourced from Kaggle, and the specific links/files can be obtained below:
+
 Raj Parmar. July 2018. Wine Quality, Version 1. [Data file]. Retrieved November 3, 2021 from https://www.kaggle.com/rajyellow46/wine-quality.
 Piyush Agnihotri. September 2020. White Wine Quality, Version 1. [Data file]. Retrieved November 3, 2021 from https://www.kaggle.com/piyushagni5/white-wine-quality.
 UCI Machine Learning. November 2017. Red Wine Quality, Version 2. [Data file]. Retrieved
