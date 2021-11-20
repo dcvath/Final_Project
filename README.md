@@ -2,7 +2,7 @@
 
 ## Outline of Project
 
-### Communication Protocols
+### Communication Protocols for Project
 We established that our group will communicate via class times, Slack, text, and ad hoc phone and video calls.
 
 ### Overview of Project
