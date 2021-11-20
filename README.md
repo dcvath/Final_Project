@@ -17,7 +17,7 @@ We established that our group will communicate via class times, Slack, text, and
 JDD Vineyards, a new business venture, has hired Myrick, Purvis, & Vath Consulting for their "Predicting Wine Quality" project. JDD Vineyards wants the consulting team to determine if their vineyard would produce quality wines, based upon characteristics their wines possess. The consulting team will analyze a dataset with quality scores and use Machine Learning to predict the quality scores JDD Vineyards would receive.
 
 #### Question the data will potentially answer using Machine Learning Technology
-Will the wines produced at the vineyard have high quality scores and be successful?
+Will the wines produced at JDD Vineyards have high quality scores and be successful?
 
 ### Data Source
 The data was sourced from Kaggle, and the specific links/files can be obtained below:
