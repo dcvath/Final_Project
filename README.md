@@ -1,13 +1,13 @@
 # Final Project: Predicting Wine Quality
 Predicting Wine Quality was selected to determine if a vineyard that is interested in a new business venture in the wine industry would be successful, based upon characteristics their wine possesses.
 
-## Project Outline
+## Outline of Project
 
 ### Communication Protocols
 We established that our group will communicate via class times, Slack, text, and ad hoc phone and video calls.
 
-## Outline of Project
-
+### Overview of Project
+Our project is titled, "Predicting Wine Quality." was selected to determine if a vineyard that is interested in a new business venture in the wine industry would be successful, based upon characteristics their wine possesses.
 
 ## Source of Data:
 Raj Parmar. July 2018. Wine Quality, Version 1. [Data file]. Retrieved November 3, 2021 from https://www.kaggle.com/rajyellow46/wine-quality.
