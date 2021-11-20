@@ -1,8 +1,10 @@
 # Final Project: Predicting Wine Quality
 Predicting Wine Quality was selected to determine if a vineyard that is interested in a new business venture in the wine industry would be successful, based upon characteristics their wine possesses.
 
-## Communication Protocols
-We established that our group will communicate via class times, Slack, text, and ad hoc video calls.
+## Project Outline
+
+### Communication Protocols
+We established that our group will communicate via class times, Slack, text, and ad hoc phone and video calls.
 
 ## Outline of Project
 
