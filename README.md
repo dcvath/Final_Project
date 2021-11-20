@@ -60,3 +60,6 @@ We plan to build our dashboard within Tableau and anticipate it will include the
 
 This is our initial outline of our dashboard and will progressively elaborate as we analyze our data and outcomes of our analysis. 
 
+
+# Database
+... put Danielle's screen shots here and add verbiage
