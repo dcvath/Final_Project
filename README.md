@@ -33,10 +33,6 @@ November 3, 2021 from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al
 This is the link to the current verision of the team's Google Slides presentation:
 https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
 
-## Questions the data will potentially answer using Machine Learning:
-- Will the wines produced at the vineyard have high quality scores and be successful?
-
-
 # Technology
 
 ## Data Cleaning and Analysis
