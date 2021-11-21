@@ -57,11 +57,15 @@ SciKitLearn is the ML library used for training and testing our source data and 
 <img width="551" alt="create_randomforest" src="https://user-images.githubusercontent.com/85654649/142745255-b85ada29-ee1c-498d-8fb9-cb6cee11e032.png">
 
 #### Dashboard
-For our dashboard, we built a webpage using HTML and JavaScript, and we plan to embed some visualization from Tableau, in addition to our interactive element where, based on the selected wine_ID, the user can view the quality score and chemical components of each wine.  
+For our dashboard, we built a webpage using HTML and JavaScript, and we plan to embed some visualization from Tableau, in addition to our interactive element. We're looking at a few options for the interactive element, but we believe the our final interactive element will allow the user to select a wine_ID, and the page will disply that specific wine_ID's quality score and chemical components.  
 
 This is a screen shot of our draft webpage:
 
 ![winedashboard_segment2](https://user-images.githubusercontent.com/85654649/142745605-06e44068-b877-41f7-9db3-164aaa237e77.png)
+
+This is a screen shot of our Storyboard for the Dashboard:
+
+
 
 
 # Outline of Final Dashboard
