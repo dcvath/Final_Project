@@ -65,16 +65,4 @@ This is a screen shot of our draft webpage:
 
 This is a screen shot of our Storyboard for the Dashboard, but it's also included within our Google Slides presentation:
 
-
-
-
-# Outline of Final Dashboard
-We plan to build our dashboard within Tableau and anticipate it will include the following elements:
-
-- Bar chart to display the top quality score wines.
-- Column chart to compare wine quality scores.
-- Pie chart to display the percentages of the categories, such as alcohol content, residual sugar, etc. of the wines with the highest quality scores and how they are distributed.
-- The average quality score for our wine.
-
-This is our initial outline of our dashboard and will progressively elaborate as we analyze our data and outcomes of our analysis. 
-
+<img width="1064" alt="storyboard" src="https://user-images.githubusercontent.com/85654649/142746438-a19a25f1-e536-4f3c-b431-4e87136973e1.png">
