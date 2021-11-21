@@ -34,14 +34,17 @@ This is the link to the current verision of the team's Google Slides presentatio
 https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
 
 ### Data Exploration
-As mentioned above, our data was initially obtained from the Kaggle website. The initial dataset included over 5,000 different wines that had been tested for their various chemical components (alcohol content, acidity levels, etc.) and a quality score was generated. We took a subset of that dataset to make it more manageable and took two additional files to function as our wine sets to attempt to calculate quality scores, based on the same input values.
+As mentioned above, our data was initially obtained from the Kaggle website. The initial dataset included over 5,000 different wines that had been tested for their various chemical components (alcohol content, acidity levels, etc.) and a quality score was generated. We took a subset of that dataset to make it more manageable and took two additional files to function as our wine sets to attempt to calculate quality scores, based on the same input values. The team used Pandas and SQL to clean the data and perform the exploratory analysis.
 
-The team used Pandas and SQL to clean the data and perform the exploratory analysis.
+#### Database
+PostgreSQL is the database the team used. The query schema is included with the Github repository. The screen show below shows the three tables created within the database:
 
-## Database Storage
-PostgreSQL is the database we intend to use, and we will integrate Flask or Tableau to display the data.
+![db_segment2](https://user-images.githubusercontent.com/85654649/142744563-05fc1a94-1cf3-49cb-9838-cc4dfa6a9b6e.png)
 
-## Machine Learning
+This is the ERD for the Database:
+![Provisional_DB](https://user-images.githubusercontent.com/85654649/140584483-6d9e690a-5ec0-42c1-a615-2959a8b9c30f.png)
+
+#### Machine Learning
 SciKitLearn is the ML library we'll be using for training and testing our source data and to create a linear/non-linear regression model. 
 
 ## Dashboard
@@ -51,7 +54,7 @@ For our dashboard, we’ll utilize Tableau to build a fully functioning, interac
 
 # Mock Up of Database/ERD
 
-![Provisional_DB](https://user-images.githubusercontent.com/85654649/140584483-6d9e690a-5ec0-42c1-a615-2959a8b9c30f.png)
+
 
 
 # Project Flow Chart
