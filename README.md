@@ -63,7 +63,7 @@ This is a screen shot of our draft webpage:
 
 ![winedashboard_segment2](https://user-images.githubusercontent.com/85654649/142745605-06e44068-b877-41f7-9db3-164aaa237e77.png)
 
-This is a screen shot of our Storyboard for the Dashboard:
+This is a screen shot of our Storyboard for the Dashboard, but it's also included within our Google Slides presentation:
 
 
 
