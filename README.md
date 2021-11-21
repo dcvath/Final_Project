@@ -33,8 +33,10 @@ November 3, 2021 from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al
 This is the link to the current verision of the team's Google Slides presentation:
 https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
 
-## Data Cleaning and Analysis
-Pandas and SQL will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+### Data Exploration
+As mentioned above, our data was initially obtained from the Kaggle website. The initial dataset included over 5,000 different wines that had been tested for their various chemical components (alcohol content, acidity levels, etc.) and a quality score was generated. We took a subset of that dataset to make it more manageable and took two additional files to function as our wine sets to attempt to calculate quality scores, based on the same input values.
+
+The team used Pandas and SQL to clean the data and perform the exploratory analysis.
 
 ## Database Storage
 PostgreSQL is the database we intend to use, and we will integrate Flask or Tableau to display the data.
@@ -50,11 +52,6 @@ For our dashboard, we’ll utilize Tableau to build a fully functioning, interac
 # Mock Up of Database/ERD
 
 ![Provisional_DB](https://user-images.githubusercontent.com/85654649/140584483-6d9e690a-5ec0-42c1-a615-2959a8b9c30f.png)
-
-
-# Sample of Dataset 
-
-![data screen shot](https://user-images.githubusercontent.com/85654649/140584492-8c6f10c7-9bbb-41fa-b70a-c11a70647e65.png)
 
 
 # Project Flow Chart
