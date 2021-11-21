@@ -38,8 +38,11 @@ This is a draft of our project's initial flow chart, including the mock up of ou
 
 ![flowchart11-5-21](https://user-images.githubusercontent.com/85654649/140584371-bb98268b-24d8-4aed-962c-efea8a1152ae.png)
 
-### Data Exploration
+### Data Exploration and Analysis
 As mentioned above, our data was initially obtained from the Kaggle website. The initial dataset included over 5,000 different wines that had been tested for their various chemical components (alcohol content, acidity levels, etc.) and a quality score was generated. We took a subset of that dataset to make it more manageable and took two additional files to function as our wine sets to attempt to calculate quality scores, based on the same input values. The team used Pandas and SQL to clean the data and perform the exploratory analysis.
+
+Within our Machine Learning code, the team utilized the RandomForestClassifier code, as this produced the most desirable results with calculating outcomes. The team used trained model on new datasets to calculate predicted quality scores, and created a wine_id for each of the tested wines in order to identify each unique entry for analysis.
+
 
 #### Database
 PostgreSQL is the database the team used, and the database will be connected via code contained within the Maching Learning ipynb file. The query schema is included with the Github repository. The screen show below shows the three tables created within the database:
@@ -54,8 +57,8 @@ SciKitLearn is the ML library used for training and testing our source data and 
 
 <img width="551" alt="create_randomforest" src="https://user-images.githubusercontent.com/85654649/142745255-b85ada29-ee1c-498d-8fb9-cb6cee11e032.png">
 
-## Dashboard
-For our dashboard, we’ll utilize Tableau to build a fully functioning, interactive dashboard. 
+#### Dashboard
+For our dashboard, we built a webpage using HTML and JavaScript, and we plan to embed some visualization from Tableau, in addition to our interactive element where, based on the selected wine_ID, the user can view the quality score and chemical components of each wine.  
 
 # Outline of Final Dashboard
 We plan to build our dashboard within Tableau and anticipate it will include the following elements:
