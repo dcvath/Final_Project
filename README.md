@@ -42,7 +42,7 @@ This is a draft of our project's initial flow chart, including the mock up of ou
 As mentioned above, our data was initially obtained from the Kaggle website. The initial dataset included over 5,000 different wines that had been tested for their various chemical components (alcohol content, acidity levels, etc.) and a quality score was generated. We took a subset of that dataset to make it more manageable and took two additional files to function as our wine sets to attempt to calculate quality scores, based on the same input values. The team used Pandas and SQL to clean the data and perform the exploratory analysis.
 
 #### Database
-PostgreSQL is the database the team used. The query schema is included with the Github repository. The screen show below shows the three tables created within the database:
+PostgreSQL is the database the team used, and the database will be connected via code contained within the Maching Learning ipynb file. The query schema is included with the Github repository. The screen show below shows the three tables created within the database:
 
 ![db_segment2](https://user-images.githubusercontent.com/85654649/142744563-05fc1a94-1cf3-49cb-9838-cc4dfa6a9b6e.png)
 
