@@ -50,7 +50,9 @@ This is the ERD for the Database:
 ![Provisional_DB](https://user-images.githubusercontent.com/85654649/140584483-6d9e690a-5ec0-42c1-a615-2959a8b9c30f.png)
 
 #### Machine Learning
-SciKitLearn is the ML library we'll be using for training and testing our source data and to create a linear/non-linear regression model. 
+SciKitLearn is the ML library used for training and testing our source data and to create the RandomForestClassifier model. Multiple potential models were attempted in order to identify the one that provided the most accurate results and could produce the results in a way that fit with the plan for visualization and the ultimate goal of being able to predict wine quality, based on certain characteristics. Ultimately, RandomForestClassifier produced the most desirable results. A screen show of the model creation is included below:
+
+<img width="551" alt="create_randomforest" src="https://user-images.githubusercontent.com/85654649/142745255-b85ada29-ee1c-498d-8fb9-cb6cee11e032.png">
 
 ## Dashboard
 For our dashboard, we’ll utilize Tableau to build a fully functioning, interactive dashboard. 
