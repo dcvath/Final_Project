@@ -33,6 +33,11 @@ November 3, 2021 from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al
 This is the link to the current verision of the team's Google Slides presentation:
 https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
 
+# Project Flow Chart
+This is a draft of our project's initial flow chart, including the mock up of our Machine Learning Model.
+
+![flowchart11-5-21](https://user-images.githubusercontent.com/85654649/140584371-bb98268b-24d8-4aed-962c-efea8a1152ae.png)
+
 ### Data Exploration
 As mentioned above, our data was initially obtained from the Kaggle website. The initial dataset included over 5,000 different wines that had been tested for their various chemical components (alcohol content, acidity levels, etc.) and a quality score was generated. We took a subset of that dataset to make it more manageable and took two additional files to function as our wine sets to attempt to calculate quality scores, based on the same input values. The team used Pandas and SQL to clean the data and perform the exploratory analysis.
 
@@ -50,19 +55,6 @@ SciKitLearn is the ML library we'll be using for training and testing our source
 ## Dashboard
 For our dashboard, we’ll utilize Tableau to build a fully functioning, interactive dashboard. 
 
-
-
-# Mock Up of Database/ERD
-
-
-
-
-# Project Flow Chart
-Our project flow chart includes the mock up of our Machine Learning Model.
-
-![flowchart11-5-21](https://user-images.githubusercontent.com/85654649/140584371-bb98268b-24d8-4aed-962c-efea8a1152ae.png)
-
-
 # Outline of Final Dashboard
 We plan to build our dashboard within Tableau and anticipate it will include the following elements:
 
@@ -73,6 +65,3 @@ We plan to build our dashboard within Tableau and anticipate it will include the
 
 This is our initial outline of our dashboard and will progressively elaborate as we analyze our data and outcomes of our analysis. 
 
-
-# Database
-... put Danielle's screen shots here and add verbiage
