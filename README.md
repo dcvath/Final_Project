@@ -43,7 +43,6 @@ As mentioned above, our data was initially obtained from the Kaggle website. The
 
 Within our Machine Learning code, the team utilized the RandomForestClassifier code, as this produced the most desirable results with calculating outcomes. The team used trained model on new datasets to calculate predicted quality scores, and created a wine_id for each of the tested wines in order to identify each unique entry for analysis.
 
-
 #### Database
 PostgreSQL is the database the team used, and the database will be connected via code contained within the Maching Learning ipynb file. The query schema is included with the Github repository. The screen show below shows the three tables created within the database:
 
@@ -59,6 +58,11 @@ SciKitLearn is the ML library used for training and testing our source data and 
 
 #### Dashboard
 For our dashboard, we built a webpage using HTML and JavaScript, and we plan to embed some visualization from Tableau, in addition to our interactive element where, based on the selected wine_ID, the user can view the quality score and chemical components of each wine.  
+
+This is a screen shot of our draft webpage:
+
+![winedashboard_segment2](https://user-images.githubusercontent.com/85654649/142745605-06e44068-b877-41f7-9db3-164aaa237e77.png)
+
 
 # Outline of Final Dashboard
 We plan to build our dashboard within Tableau and anticipate it will include the following elements:
