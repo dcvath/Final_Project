@@ -10,6 +10,9 @@
 - Delana Vath
 - Jeff Purvis
 
+### Communication Protocols for Project
+We established that our group will communicate via class times, Slack, text, and ad hoc phone and video calls.
+
 ### Overview of Project
 JDD Vineyards, a new business venture, has hired Myrick, Purvis, & Vath Consulting for their "Predicting Wine Quality" project. JDD Vineyards wants the consulting team to determine if their vineyard would produce quality wines, based upon characteristics their wines possess. The consulting team will analyze a dataset with quality scores and use Machine Learning to predict the quality scores JDD Vineyards would receive.
 
