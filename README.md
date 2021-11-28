@@ -29,6 +29,7 @@ The data was sourced from Kaggle. The team has included a screen shot of the sam
 - pH
 - sulphates
 - alcohol
+- quality score
 
 ![data sample screen shot](https://user-images.githubusercontent.com/85654649/142744105-690acf22-5e34-47c4-b336-f64fab2015eb.png)
 
