@@ -69,7 +69,7 @@ To accomplish this, we established the features to be used in the Multiple Linea
 
 A screen shot of the model creation is included below:
 
-<img width="551" alt="create_randomforest" src="https://user-images.githubusercontent.com/85654649/142745255-b85ada29-ee1c-498d-8fb9-cb6cee11e032.png">
+<img width="1257" alt="linearregressionmodel" src="https://user-images.githubusercontent.com/85654649/143789212-e80a4c1d-c32e-4974-a0b8-706e098c5570.png">
 
 #### Dashboard
 For our dashboard, we built a webpage using HTML and JavaScript, and we plan to embed some visualization from Tableau, in addition to our interactive element. We're looking at a few options for the interactive element, but we believe the our final interactive element will allow the user to select a wine_ID, and the page will display that specific wine_ID's quality score and chemical components.  
