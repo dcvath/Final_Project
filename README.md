@@ -30,6 +30,9 @@ November 3, 2021 from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al
 This is the link to the current verision of the team's Google Slides presentation:
 https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
 
+### Tableau Dashboard
+https://public.tableau.com/views/Final_Project_16381278221320/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ### Project Flow Chart
 This is a draft of our project's initial flow chart, including the mock up of our Machine Learning Model.
 
