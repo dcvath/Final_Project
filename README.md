@@ -65,19 +65,20 @@ This is the ERD for the Database:
 #### Machine Learning
 Within our Machine Learning code, multiple potential models were attempted in order to identify the one that would be most fitting with this dataset. In our last submission, we thought that RandomForestClassifier was the best suited, but upon further review of the resulting data, this was discovered to be in error. The classifier model was not calculating predicted quailty scores correctly. Further testing of various training models was completed and Multiple Linear Regression was determined to produce the highest results.
 
-To accomplish this, we established the features to be used in the Multiple Linear Regression model and trained the model using the uploaded training dataset. The team used trained model on new datasets to calculate predicted quality scores, and created a wine_id for each of the tested wines in order to identify each unique entry for analysis.
+To accomplish this, we established the features to be used in the Multiple Linear Regression model and trained the model using the uploaded training dataset. The team created new datasets using the model to calculate predicted quality scores, and created a wine_id for each of the tested wines in order to identify each unique entry for analysis.
 
 A screen shot of the model creation is included below:
 
 <img width="1257" alt="linearregressionmodel" src="https://user-images.githubusercontent.com/85654649/143789212-e80a4c1d-c32e-4974-a0b8-706e098c5570.png">
 
 #### Dashboard
-For our dashboard, we built a webpage using HTML and JavaScript, and we plan to embed some visualization from Tableau, in addition to our interactive element. We're looking at a few options for the interactive element, but we believe the our final interactive element will allow the user to select a wine_ID, and the page will display that specific wine_ID's quality score and chemical components.  
+For our dashboard, we were planning to build a webpage using HTML and JavaScript, and embed some visualization from Tableau, in addition to our interactive element. However, due to some technical difficulties, we had to pivot to only using Tableau. As our interactive elements, we included two different filters within our Tableau Story. Our quality scores can be filtered by quality rating or wine type (white or red). If we're able to overcome our technical challenges, we may still include the HTML and Javascript webpage.  
 
-This is a screen shot of our draft webpage:
+This is a screen shot of one of our dashboards within our Tableau Story.
 
-![winedashboard_segment2](https://user-images.githubusercontent.com/85654649/142745605-06e44068-b877-41f7-9db3-164aaa237e77.png)
+<img width="598" alt="tableaustoryscreenshot" src="https://user-images.githubusercontent.com/85654649/143789587-bf70788d-989a-432a-bb73-9c5e0fd9f452.png">
 
-This is a screen shot of our Storyboard for the Dashboard, but it's also included within our Google Slides presentation:
+The full Tableau Story can be found at this link: 
 
-<img width="1064" alt="storyboard" src="https://user-images.githubusercontent.com/85654649/142746438-a19a25f1-e536-4f3c-b431-4e87136973e1.png">
+https://public.tableau.com/app/profile/dvath/viz/Final_Project_16381278221320/Story1?publish=yes
+
