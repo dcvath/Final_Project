@@ -17,7 +17,18 @@ JDD Vineyards, a new business venture, has hired Myrick, Purvis, & Vath Consulti
 Will the wines produced at JDD Vineyards generate high quality scores and be successful?
 
 ### Data Source
-The data was sourced from Kaggle. The team has included a screen shot of the sample dataset as well as the specific links/files where the data can be obtained.
+The data was sourced from Kaggle. The team has included a screen shot of the sample dataset as well as the specific links/files where the data can be obtained. The dataset includes the following attributes:
+- fixed acidity
+- volatile acidity
+- citric acid
+- residual sugar
+- chlorides
+- free sulfur dioxide
+- total sulfur dioxide
+- density
+- pH
+- sulphates
+- alcohol
 
 ![data sample screen shot](https://user-images.githubusercontent.com/85654649/142744105-690acf22-5e34-47c4-b336-f64fab2015eb.png)
 
