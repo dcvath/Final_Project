@@ -54,8 +54,6 @@ This is a draft of our project's initial flow chart, including the mock up of ou
 ### Data Exploration and Analysis
 As mentioned above, our data was initially obtained from the Kaggle website. The initial dataset included over 5,000 different wines that had been tested for their various chemical components (alcohol content, acidity levels, etc.) and a quality score was generated. We took a subset of that dataset to make it more manageable and took two additional files to function as our wine sets to attempt to calculate quality scores, based on the same input values. The team used Pandas and SQL to clean the data and perform the exploratory analysis.
 
-Within our Machine Learning code, the team utilized the RandomForestClassifier code, as this produced the most desirable results with calculating outcomes. The team used trained model on new datasets to calculate predicted quality scores, and created a wine_id for each of the tested wines in order to identify each unique entry for analysis.
-
 #### Database
 PostgreSQL is the database the team used, and the database will be connected via code contained within the Maching Learning ipynb file. The query schema is included with the Github repository. The screen show below shows the three tables created within the database:
 
@@ -65,7 +63,11 @@ This is the ERD for the Database:
 ![Provisional_DB](https://user-images.githubusercontent.com/85654649/140584483-6d9e690a-5ec0-42c1-a615-2959a8b9c30f.png)
 
 #### Machine Learning
-SciKitLearn is the ML library used for training and testing our source data and to create the RandomForestClassifier model. The Machine Learning code is included within the Github repository. Multiple potential models were attempted in order to identify the one that provided the most accurate results and could produce the results in a way that fit with the plan for visualization and the ultimate goal of being able to predict wine quality, based on certain characteristics. Ultimately, RandomForestClassifier produced the most desirable results. A screen show of the model creation is included below:
+Within our Machine Learning code, multiple potential models were attempted in order to identify the one that would be most fitting with this dataset. In our last submission, we thought that RandomForestClassifier was the best suited, but upon further review of the resulting data, this was discovered to be in error. The classifier model was not calculating predicted quailty scores correctly. Further testing of various training models was completed and Multiple Linear Regression was determined to produce the highest results.
+
+To accomplish this, we established the features to be used in the Multiple Linear Regression model and trained the model using the uploaded training dataset. The team used trained model on new datasets to calculate predicted quality scores, and created a wine_id for each of the tested wines in order to identify each unique entry for analysis.
+
+A screen shot of the model creation is included below:
 
 <img width="551" alt="create_randomforest" src="https://user-images.githubusercontent.com/85654649/142745255-b85ada29-ee1c-498d-8fb9-cb6cee11e032.png">
 
