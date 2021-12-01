@@ -40,7 +40,7 @@ November 3, 2021 from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al
 
 ### Google Slides Presentation
 This is the link to the current verision of the team's Google Slides presentation:
-https://docs.google.com/presentation/d/1_syazsfrAmDTk7VxIcM2oDEMwXvgvpArfBdHkG1Xalw/edit?usp=sharing
+https://docs.google.com/presentation/d/1Ak_3XZerrSCkjtl2VdaqQhtaTjbnMLaH8tGpdI0TWM8/edit?usp=sharing
 
 ### Tableau Dashboard
 This is the link to the current verision of the team's Tableau Dashboard:
