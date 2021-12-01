@@ -71,6 +71,8 @@ A screen shot of the model creation is included below:
 
 <img width="1257" alt="linearregressionmodel" src="https://user-images.githubusercontent.com/85654649/143789212-e80a4c1d-c32e-4974-a0b8-706e098c5570.png">
 
+The calculated R2 score for this model was .56121.  While, generally speaking, an R2 score of 70 or higher is most desirable, due to the nature of the data that we were working with in this project, the resulting R2 score produced an acceptable level and the most accurate out of the tested scores.
+
 #### Dashboard
 For our dashboard, we were planning to build a webpage using HTML and JavaScript, and embed some visualization from Tableau, in addition to our interactive element. However, due to some technical difficulties, we had to pivot to only using Tableau. As our interactive elements, we included two different filters within our Tableau Story. Our quality scores can be filtered by quality rating or wine type (white or red). If we're able to overcome our technical challenges, we may still include the HTML and Javascript webpage.  
 
