@@ -87,3 +87,27 @@ The consulting team's interactive elements for the dashboard includes: HTML, Jav
 This is an image of one of our dashboards within our Tableau Story.
 
 <img width="598" alt="tableaustoryscreenshot" src="https://user-images.githubusercontent.com/85654649/143789587-bf70788d-989a-432a-bb73-9c5e0fd9f452.png">
+
+### Technologies, languages, tools, and algorithms used throughout the project
+- Python Libraries:
+- Pandas
+- Sklearn.model_selection
+- Train_test_split
+- Sklearn.linear_model
+- LinearRegression
+- Psycopg2
+- Numpy
+- Jupyter Notebook
+- HTML
+- VSCode
+- PostgreSQL
+- PGAdmin
+- Tableau
+- Machine Learning
+- Multiple Linear Regression
+- JavaScript
+- GitHub
+- Google Slides
+- AWS
+- Excel
+
