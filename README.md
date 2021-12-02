@@ -82,7 +82,7 @@ An image of the model creation for the applied model is included below:
 
 
 #### Dashboard
-The consulting team's interactive elements for the dashboard includes: HTML, JavaScript, and a Tableau Story. The Tableau Story also has interactive elements, which includes two different filters. The quality scores can be filtered by quality rating or wine type (white or red).
+The consulting team's interactive elements for the dashboard includes: HTML, JavaScript, and a Tableau Story. The Tableau Story includes two different filters where the quality scores can be filtered by quality rating or wine type (white or red).
 
 This is an image of one of our dashboards within our Tableau Story.
 
