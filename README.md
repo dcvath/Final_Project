@@ -82,7 +82,7 @@ An image of the model creation for the applied model is included below:
 
 
 #### Dashboard
-The consulting team's interactive elements for the dashboard includes: HTML, JavaScript, and a Tableau Story. The Tableau Story includes two different filters where the quality scores can be filtered by quality rating or wine type (white or red).
+The consulting team's interactive elements for the dashboard includes: HTML, JavaScript, and a Tableau Story. The Tableau Story includes two different filters where the quality scores can be filtered by quality rating or wine type (white or red). The [website](https://dmyrick.github.io/Predicting_Wine_Quality/) created for JDD Vineyard showcases the output wine data from the machine learning.
 
 This is an image of one of our dashboards within our Tableau Story.
 
