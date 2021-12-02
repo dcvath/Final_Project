@@ -1,0 +1,11 @@
+SELECT * FROM wine_red;
+DELETE FROM wine_red;
+SELECT * FROM wine_red;
+
+SELECT * FROM wine_white;
+DELETE FROM wine_white;
+SELECT * FROM wine_red;
+
+SELECT * FROM wine_main;
+DELETE FROM wine_main;
+SELECT * FROM wine_main;
