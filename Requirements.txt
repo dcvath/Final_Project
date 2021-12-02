@@ -1,0 +1,21 @@
+Python
+Pandas
+Sklearn.model_selection
+Train_test_split
+Sklearn.linear_model
+LinearRegression
+Psycopg2
+Numpy
+Jupyter Notebook
+HTML
+VSCode
+PostgreSQL
+PGAdmin
+Tableau
+Machine Learning
+Multiple Linear Regression
+JavaScript
+GitHub
+Google Slides
+AWS
+Excel 
