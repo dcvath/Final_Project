@@ -111,3 +111,19 @@ This is an image of one of our dashboards within our Tableau Story.
 - AWS
 - Excel
 
+### Results of Analysis
+Based on our current analysis, the the client’s wines we tested should produce mid-range wines with a couple higher quality wines. We also found that due to the majority of of the white wines having higher predicted quality scores, as we saw in the dashboard, the client may want to focus on their white wine portfolio. 
+To answer our million dollar data question, “Will the wines produced in JDD Vineyards generate acceptable quality scores and be successful?” our team would say, yes, these scores are acceptable.
+
+### Recommendation for Future Analysis
+Below, are our recommendations for future analysis:
+- Analyze the rest of the chemical components to identify additional trends.
+- Research by region impact.
+- Financial research on business model to make money. What sells better mid-range/high range
+- Further investigation of additional models that could be used to improve outcome accuracy; Non-linear regression models and any others that may be identified.
+
+### Lessons Learned
+Below, are our lessons learned:
+- Importance of various factors and their impact on model output
+- Not all ML models are equal
+- Review code to verify functionality and redundancy 
